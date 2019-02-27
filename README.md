@@ -2,5 +2,5 @@
 robots
 
 - [ ] what
-[] what 2
+[ ] what 2
 
